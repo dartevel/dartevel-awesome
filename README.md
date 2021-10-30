@@ -12,34 +12,39 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 ### Contents
 
-- [<a href="https://awesome-go.com/"><img align="right" src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4" alt="awesome-go" title="awesome-go" /></a> Awesome Dartevel](#-awesome-dartevel)
-    - [Contributing](#contributing)
+  - [Contributing](#contributing)
       - [*If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*](#if-you-see-a-package-or-project-here-that-is-no-longer-maintained-or-is-not-a-good-fit-please-submit-a-pull-request-to-improve-this-file-thank-you)
     - [Contents](#contents)
-  - [Audio and Music](#audio-and-music)
+  - [Packages](#packages)
   - [Social Media](#social-media)
     - [Twitter](#twitter)
-  - [Websites](#websites)
-    - [Tutorials](#tutorials)
-  
+    - [Github](#github)
+    - [Aparat](#aparat)
+    - [Youtube](#youtube)
+    - [Instagram](#instagram)
   - [Websites](#websites)
     - [Tutorials](#tutorials)
 
+  - [Websites](#websites)
+    - [Official site](#official)
+    - [Awesome's](#awesome)
+    - [Packages](#packages)
+    - [Tutorials](#tutorials)
+
 - [Tools](#tools)
-    - [Code Analysis](#code-analysis)
     - [Editor Plugins](#editor-plugins)
     - [Software Packages](#software-packages)
         - [DevOps Tools](#devops-tools)
-        - [Other Software](#other-software)
 
 - [Resources](#resources)
     - [Benchmarks](#benchmarks)
     - [Websites](#websites)
         - [Tutorials](#tutorials)
+        - [Books](#books)
 
 **[⬆ back to top](#contents)**
 
-## Audio and Music
+## Packages
 
 *Libraries for manipulating audio.*
 
@@ -52,14 +57,29 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 ## Social Media
 ### Twitter
 
-* [@golang](https://twitter.com/golang)
+* [@twitter](https://twitter.com/twitter)
+### Github
+
+* [@github](https://github.com/dartevel)
+### Aparat
+
+* [@aparat](https://aparat.com/dartevel)
+### Youtube
+
+* [@youtube](https://youtube.com/youtube)
+### Instagram
+
+* [@instagram](https://instagram.com/dartevel)
 
 
 **[⬆ back to top](#contents)**
 
 ## Websites
 
-* [Awesome Go @LibHunt](https://go.libhunt.com) - Your go-to Go Toolbox.
+* [Dartevel Official](https://dartevel.com) - Main site
+* [Awesome Dartevel](https://dartevel-awesome.com) - dartevel awesome's
+* [Dartevel packages](https://dartevel.com/packages) - dartevel packages's
+* [Tutorials](https://dartevel.com/tutorials) - dartevel tutorials
 
 **[⬆ back to top](#contents)**
 
